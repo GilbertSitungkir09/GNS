@@ -22,7 +22,7 @@ global.APIKeys = { // APIKey Here
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
+  'https://bsbt-api-rest.herokuapp.com': 'benniismaelapikey',
 }
 
 // Sticker WM
