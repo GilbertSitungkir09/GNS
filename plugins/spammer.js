@@ -35,11 +35,11 @@ let [number, pesan] = text.split `|`
     conn.reply(m.chat, logs, m)
 }
 handler.help = ['spam <nomor|pesan>', 'spamwa <nomor|pesan>']
-handler.tags = ['spammer']
+handler.tags = ['spammer', 'premium']
 handler.command = /^(spam|spamwa)$/i
 handler.owner = false
 handler.mods = false
-handler.premium = false
+handler.premium = true
 handler.group = false
 handler.private = false
 
