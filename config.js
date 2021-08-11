@@ -16,7 +16,7 @@ global.APIs = { // API Prefix
   pencarikode: 'https://pencarikode.xyz',
 }
 global.APIKeys = { // APIKey Here
-  'https://api.lolhuman.xyz': 'ohayou',
+  'https://api.lolhuman.xyz': 'ae0203a82508964d6fb9d7df',
   'https://api.xteam.xyz': 'MIMINETBOT',
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
