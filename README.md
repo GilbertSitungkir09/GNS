@@ -2,6 +2,17 @@
 
 Simple WhatsApp Bot
 
+## ALAT
+
+```bash
+> NIAT
+> 2 HP (1 WHATSAPP BOT & 1 LGI SCAN QR) 
+> TERMUX [`KLIK`](https://play.google.com/store/apps/detailsz?id=com.termux)
+> Kopi
+> Udh :v
+
+
+
 ## FOR TERMUX USER
 
 ```bash
@@ -11,8 +22,10 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/GilbertSitungkir09/GNS.git
-> cd wabot-aq
+> cd GNS
 > npm install
+> node .
+> scan Qr nya
 ```
 
 ---------
@@ -26,7 +39,7 @@ Simple WhatsApp Bot
 
 ```bash
 > git clone https://github.com/GilbertSitungkir09/GNS.git
-> cd wabot-aq
+> cd GNS
 > npm install
 ```
 
