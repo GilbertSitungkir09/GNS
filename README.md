@@ -7,7 +7,7 @@ Simple WhatsApp Bot
 ```bash
 > NIAT
 > 2 HP (1 WHATSAPP BOT & 1 LGI SCAN QR) 
-> TERMUX [`KLIK`](https://play.google.com/store/apps/detailsz?id=com.termux)
+* Download Termux [`Click Here`](https://play.google.com/store/apps/detailsz?id=com.termux)
 > Kopi
 > Udh :v
 
