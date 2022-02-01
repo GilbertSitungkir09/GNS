@@ -116,7 +116,20 @@ let package = JSON.parse(fs.readFileSync(path.join(__dirname, '../package.json')
       'downloader': 'Downloader Menu',
       'internet': 'Internet',
       'dm': 'List Game',
-
+      'news': 'News Menu',
+      'spam': 'Spammer Menu',
+      'tools': 'Tools Menu',
+      'jadibot': 'Bot Numpang',
+      'primbon': 'Primbon Menu',
+      'premium': 'Premium & VIP Menu',
+      'owner': 'Owner Menu',
+      'virus': 'Virtex',
+      'advanced': 'Advanced',
+      'host': 'Host Menu',
+      'info': 'Information',
+      'database': 'Database',
+      '': 'No Category',
+      'thnks': 'THANKS TO',
     }
     for (let plugin of Object.values(global.plugins))
       if (plugin && 'tags' in plugin)
